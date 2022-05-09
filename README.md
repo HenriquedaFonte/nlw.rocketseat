@@ -26,7 +26,8 @@
     The project proposal comprises a responsive and customizable landing page originally designed for DoctorCare, a fictional medical consultation platform.
 </p>
 <p align="left">Development was guided and conducted by<a href="https://maykbrito.dev/"> Mayk Brito</a>, educator @Rocketseat.</p>
-
+<br>
+    <p  align="left">You can access the final result of the project online here: <a href="https://henriquedafonte.github.io/nlw.rocketseat/">live website
 </div>
 
 
