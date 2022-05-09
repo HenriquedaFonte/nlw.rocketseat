@@ -96,7 +96,7 @@ ScrollReveal({
   origin: 'bottom',
   distance: '30px',
   duration: 700, 
-  reset:true
+  reset: true
 }).reveal(`
 #home, 
 #home .number,
