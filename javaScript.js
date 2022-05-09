@@ -95,7 +95,8 @@ function closeMenu() {
 ScrollReveal({
   origin: 'bottom',
   distance: '30px',
-  duration: 700
+  duration: 700, 
+  reset:true
 }).reveal(`
 #home, 
 #home .number,
